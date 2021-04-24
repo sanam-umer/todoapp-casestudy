@@ -1,0 +1,39 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+body{
+    height: 100%;
+    
+}
+h1{
+    font-size: 3rem;
+    font-weight: 50;
+    margin: 1rem 0 3rem;
+    text-align: center;
+    color: #fff;
+}
+#head{
+    color: brown;
+    margin-top: 1em;
+    font-weight: bolder;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.styling{
+    font-weight: 800;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(197, 63, 45, 0.856);
+}
+.navbar1 a{
+    text-decoration: none;
+    color: rgb(194, 58, 25);
+}
+.navbar1{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    
+}
